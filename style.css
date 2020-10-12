@@ -23,6 +23,7 @@ a{
 
 h1, h2, h3 ,h4{
  font-family: 'DM Serif Display', serif;
+ letter-spacing: 3px;
 }
 .mg-1{
  margin: 9.4rem auto;
@@ -121,8 +122,8 @@ nav .hamburger{
     z-index: 10; 
 }
 .header-text .l-title{
-font-size: 4.5rem;
-line-height: 65px;
+font-size: 4rem;
+line-height: 55px;
 }
 .header-text p{
    opacity: .8;
